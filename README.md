@@ -6,4 +6,4 @@ repo with useful bash scripts
     * path to folder with exported files 
     * corretion factor (integer) 
     
-  * example ( exported files start at frame 160 to 180), use correction factor 160 to have them start at zero. 
+  * **example** - ( exported files start at frame 160 to 180), use correction factor 160 to have them start at zero. 
